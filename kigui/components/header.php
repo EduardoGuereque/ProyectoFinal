@@ -6,15 +6,7 @@
 
     <nav class="enlaces-contenedor">
         <ul>
-            <li>
-                <a class="enlace" href="#">Planes ▾</a>
-                <ul class="submenu">
-                    <li><a href="#">Plan Básico</a></li>
-                    <li><a href="#">Plan Premium</a></li>
-                    <li><a href="#">Plan Familiar</a></li>
-                </ul>
-            </li>
-            <li><a class="inicio-sesion" href="#">Iniciar Sesión</a></li>
+            <li><a class="inicio-sesion" href="../login.php">Iniciar Sesión</a></li>
         </ul>
     </nav>
 </header>
